@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-!--
-**AmandaCatelanC/AmandaCatelanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Science with Python
 - 🌱 I’m currently learning Artificial Intelligence Applied to Data
 - 💬 Ask me about: Python, TensorFlow, or anything related to data science and AI.
@@ -17,4 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- !--
+**AmandaCatelanC/AmandaCatelanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
