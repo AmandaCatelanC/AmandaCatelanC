@@ -7,6 +7,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I believe in blending yoga and meditation to handle stress like a pro. 🧘‍♀️
 
+<!--
 
 <- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
