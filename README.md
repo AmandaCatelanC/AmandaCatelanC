@@ -15,4 +15,6 @@
 - 😄 Pronouns: ...
 - !--
 **AmandaCatelanC/AmandaCatelanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I enter at github on  March 10th, 2025
 -->
