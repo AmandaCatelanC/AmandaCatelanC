@@ -5,7 +5,7 @@
 - 📫 Me contate no [Linkedin](https://www.linkedin.com/in/amandacarvalhocatelan/)
 - 😄 Pronomes: Ela/Dela
 
- ## Meus projetos utilizando Ciencia de Dados:
+ ## 🚧 Meus projetos utilizando Ciencia de Dados:
   **Classificação**
   
 - Árvore de classificação
@@ -32,5 +32,7 @@
 - Algoritmos hierárquicos
 - Estratégias de definição do número de clusters(joelho/elbow, silhueta, distância, intra-cluster, etc)
 - Gaussian Mixture Models (GMM)
+
+## 🚧 Outros tópicos de estudos:
 
   
