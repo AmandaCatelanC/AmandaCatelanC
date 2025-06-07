@@ -5,7 +5,7 @@
 - 📫 Me contate no [Linkedin](https://www.linkedin.com/in/amandacarvalhocatelan/)
 - 😄 Pronomes: Ela/Dela
 
- ## Projetos utilizando Ciencia de Dados:
+ ## Meus projetos utilizando Ciencia de Dados:
   **Classificação**
   
 - Árvore de classificação
