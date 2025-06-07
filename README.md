@@ -1,6 +1,6 @@
 ## Olá, meu nome é Amanda 👋
 
-- 🔭 Hoje estudo Ciência de Dados com Python
+- 🔭 Hoje estudo Ciência de Dados com Python na instituição Insper
 - 🌱 Atualmente realizando um projeto de Ciencia de dados com inteligencia artificial aplicada [DailyDots - Chatbot](https://financialanalytics-bsnlw48wfesssdqrrgngzn.streamlit.app/)
 - 📫 Me contate no [Linkedin](https://www.linkedin.com/in/amandacarvalhocatelan/)
 - 😄 Pronomes: Ela/Dela
