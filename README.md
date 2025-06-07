@@ -1,20 +1,36 @@
-## Hi there 👋
+## Olá, meu nome é Amanda 👋
 
-- 🔭 I’m currently working on Data Science with Python
-- 🌱 I’m currently learning Artificial Intelligence Applied to Data
-- 💬 Ask me about: Python, TensorFlow, or anything related to data science and AI.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amandacarvalhocatelan/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I believe in blending yoga and meditation to handle stress like a pro. 🧘‍♀️
+- 🔭 Hoje estudo Ciência de Dados com Python
+- 🌱 Atualmente realizando um projeto de Ciencia de dados com inteligencia artificial aplicada [DailyDots - Chatbot](https://financialanalytics-bsnlw48wfesssdqrrgngzn.streamlit.app/)
+- 📫 Me contate no [Linkedin](https://www.linkedin.com/in/amandacarvalhocatelan/)
+- 😄 Pronomes: Ela/Dela
 
-<!--
+ ## Projetos utilizando Ciencia de Dados:
+  **Classificação**
+  
+- Árvore de classificação
+- Random Forest
+- Estratégias de Boosting: Gradient Boosting, ADA Boosting, etc.
+- Regressão logística.
+- KNN.
+- Naïve Bayes (Gaussiano x Bernouli)
+- Redes Neurais
+- SVM
 
-<- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- !--
-**AmandaCatelanC/AmandaCatelanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Regressão**
 
-I enter at github on  March 10th, 2025
--->
+- Regressão Linear
+- Regularização L1 e L2
+- Árvore de Regressão
+- Análise de Resíduos
+- Modelos Lineares generalizados (GLM)
+
+**Agrupamento**
+
+- K-Means/K-medoids
+- DBSCAN
+- Algoritmos hierárquicos
+- Estratégias de definição do número de clusters(joelho/elbow, silhueta, distância, intra-cluster, etc)
+- Gaussian Mixture Models (GMM)
+
+  
